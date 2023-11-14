@@ -169,6 +169,6 @@ export default class Game extends Phaser.Scene {
     this.carrots.killAndHide(carrot);
     // disable from physics world
     this.physics.world.disableBody(carrot.body);
-    this.carrots++;
+    this.carrotsCollected++;
   }
 }
