@@ -21,7 +21,7 @@
     "@new-objects/prettier-config": "^0.0.2",
     "autoprefixer": "^10.4.16",
     "cross-env": "^7.0.3",
-    "eslint": "^8.55.0",
+    "eslint": "^8.56.0",
     "eslint-config-prettier": "^9.1.0",
     "eslint-config-standard": "^17.1.0",
     "eslint-plugin-import": "^2.29.0",
